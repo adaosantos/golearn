@@ -1,0 +1,16 @@
+{
+  "name": "graphiql-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphiql": "^0.11.11",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
